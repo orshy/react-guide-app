@@ -1,4 +1,4 @@
-A weekly guide from HackOregon ReactJS
+A weekly guide from HackOregon ReactJS hosted here: https://orshy.github.io/react-guide-app/
 
 git clone https://github.com/orshy/react-guide-app
 
