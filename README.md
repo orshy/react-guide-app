@@ -1,6 +1,6 @@
 # react-guide-app
 
-A weekly guide built with reactJS at Hack Oregon.
+A weekly guide built with reactJS at Hack Oregon hosted here: https://orshy.github.io/react-guide-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
